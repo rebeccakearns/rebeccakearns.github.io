@@ -1,4 +1,4 @@
-# rebeccakearns.github.io
+# Rebecca Kearns
 
 *About Me*
 
