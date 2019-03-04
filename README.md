@@ -26,4 +26,9 @@ It is interesting to note the rapid decline in students enrolled within the Coll
 
 The above chart is my first visualization when exploring patterns between our generation's news consumption behavior to the rest of the population.
 
+## Google 360 Tour
+For college students today, we are constantly fed news throughout or day whether we want to be or not. From phone alerts, to Facebook ads, to snapchat stories and in-class discussions, we receive an overwhelming amount of news. In our final project, we plan to evaluate college students consumption habits compared to other adults. In this tour, we look to see some of the ways and places in which Lehigh University promotes "keeping up with current events" as well as dialogue on important topics. 
+
+Data from Project Information Literacy's The News Study research report. Based out of Northeastern University. https://www.projectinfolit.org/news_study.html
+
 <iframe width="100%" height="480px" src="https://poly.google.com/view/5zCBGXNJiyu/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
