@@ -32,3 +32,7 @@ For college students today, we are constantly fed news throughout or day whether
 Data from Project Information Literacy's The News Study research report. Based out of Northeastern University. https://www.projectinfolit.org/news_study.html
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/5zCBGXNJiyu/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+
+###Data Scraping Assignment
+<iframe title="Chart: Lehigh University Job Openings by Position Category&amp;nbsp;" aria-describedby="Current (3/8/19) Lehigh University Job openings by category." id="datawrapper-chart-Wy1uu" src="//datawrapper.dwcdn.net/Wy1uu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="219"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
